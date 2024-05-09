@@ -1,4 +1,3 @@
-# Shakib-Bader
 <h1 align="center">Hi 👋, I'm Md Shakib Bader</h1>
 <h3 align="center">A passionate Analyst from India</h3>
 
